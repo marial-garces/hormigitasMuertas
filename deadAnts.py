@@ -12,12 +12,12 @@ def count_dead_ants(trail):
       elif inDead:
         deadAnts += 1
     elif char == 'a':
-      # cuando comeinza una hormiga
+      # the start of an ant
       in_ant = True
       in_dead = False
       alive_ants += 1
     elif char == 't':
-      # el final de la hormiga al morir
+      # poor dead ants, sad 
       in_ant = False
       in_dead = True
 
