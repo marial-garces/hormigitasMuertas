@@ -27,3 +27,5 @@ def count_dead_ants(trail):
 orderly_trail = "..ant..ant.ant...ant.ant..ant.ant....ant..ant.ant.ant...ant.."
 carnage = "...ant...ant..nat.ant.t..ant...ant..ant..ant.anant..t"
 print("Number of dead ants:", count_dead_ants(carnage))
+
+#aaaaagahjkm,.s
